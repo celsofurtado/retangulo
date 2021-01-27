@@ -1,0 +1,9 @@
+package br.com.empresa.gui;
+
+public class FrameRetangulo {
+	
+	public void criarTela() {
+		
+	}
+
+}
